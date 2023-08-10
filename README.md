@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![MasterHead](https://i.pinimg.com/originals/7a/1b/84/7a1b84b0d02802cca66d976556d8699d.gif)
 <h1 align="center">Hi 👋, I'm Prasad Morye</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
